@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pagina web-leisy"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PAJINAWEB-STIVEN"
+	}
+}
